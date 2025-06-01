@@ -6,16 +6,16 @@
       </td>
       <td class="p-1 pl-2 font-weight-light text">
         <ul class="items">
-            {% for item in content.items %}
-              <li>
-                {% if item.url %}
-                  <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
-                {% else %}
-                  {{ item.name }}
-                {% endif %}
-              </li>
-            {% endfor %}
-          </ul>
+          {% for item in content.items %}
+            <li>
+              {% if item.url %}
+                <a href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
+              {% else %}
+                {{ item.name }}
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
       </td>
     </tr>
   {% endfor %}

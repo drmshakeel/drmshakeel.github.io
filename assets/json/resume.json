@@ -1,157 +1,160 @@
 {
-    "experience": [
+  "experience": [
+    {
+      "name": "Honda Research Institute Japan, Co., Ltd. (HRI-JP)",
+      "position": "Scientist",
+      "location": "Tokyo, JAPAN",
+      "image": "hrijp.svg",
+      "url": "https://www.jp.honda-ri.com/en/members/muhammad-shakeel/",
+      "startDate": "2022-11",
+      "endDate": "",
+      "topic": "Research and development of an end-to-end deep learning-based system, in collaboration with Carnegie Mellon University, to provide accurate and contextualized automatic transcription for the hearing impaired."
+    },
+    {
+      "name": "Honda Research Institute Japan, Co., Ltd. (HRI-JP)",
+      "position": "Research Intern",
+      "location": "Tokyo, JAPAN",
+      "image": "hrijp.svg",
+      "url": "https://www.jp.honda-ri.com/en/",
+      "startDate": "2021-12",
+      "endDate": "2022-08",
+      "topic": "3D ASR: Joint modeling of CTC, Attention and Transducer"
+    },
+    {
+      "name": "COMSATS University Islamabad (CUI)",
+      "position": "Lecturer",
+      "location": "Islamabad, Pakistan",
+      "image": "COMSATS-logo.png",
+      "url": "https://islamabad.comsats.edu.pk",
+      "startDate": "2015-09",
+      "endDate": "2019-03",
+      "topic": "Development of clustering algorithm for ALPIDE chip data on Kintex-7 in collaboration with ALICE (CERN)."
+    },
+    {
+      "name": "Smart-I",
+      "position": "AI & Machine Learning Engineer",
+      "location": "Rome, ITALY",
+      "image": "smart-i.png",
+      "url": "https://www.smart-interaction.com",
+      "startDate": "2015-02",
+      "endDate": "2015-08",
+      "topic": "Design, development, and optimization of machine learning algorithms for real-time traffic forecasting on the roads."
+    },
+    {
+      "name": "Smart-I",
+      "position": "Machine Learning Intern",
+      "location": "Rome, ITALY",
+      "image": "smart-i.png",
+      "url": "https://www.smart-interaction.com",
+      "startDate": "2014-02",
+      "endDate": "2014-05",
+      "topic": "Integrated support vector machines and Kalman filter to develop real-time prediction models, reducing energy consumption by 90% for pedestrian traffic and 80% for road traffic."
+    },
+    {
+      "name": "Human-Robot Informatics Lab - Tohoku University",
+      "position": "Visiting Trainee",
+      "location": "Sendai, JAPAN",
+      "image": "tohoku-uni.png",
+      "url": "https://www.tohoku.ac.jp/en/index.html",
+      "startDate": "2013-09",
+      "endDate": "2013-12",
+      "topic": "Environmental sensing using millimeter wave sensor for extreme conditions."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institute of Science Tokyo (former Tokyo Institute of Technology)",
+      "image": "science_tokyo.webp",
+      "location": "Tokyo, JAPAN",
+      "url": "https://www.isct.ac.jp/en",
+      "studyType": "Doctor of Philosophy in Systems and Control Engineering",
+      "startDate": "2019-09",
+      "endDate": "2022-09",
+      "advisor": "Prof. Kazuhiro Nakadai",
+      "advisorUrl": "https://www.ra.sc.e.titech.ac.jp/en/member/kazuhiro-nakadai/",
+      "research": "Anamolay detection and classification",
+      "thesis": "Anomaly detection and classification in multi-sensor systems using deep learning"
+    },
+    {
+      "institution": "Sapienza University of Rome",
+      "image": "sapienza.png",
+      "location": "Rome, ITALY",
+      "url": "https://www.uniroma1.it/en/pagina-strutturale/home",
+      "studyType": "Master of Engineering in Artificial Intelligence and Robotics",
+      "startDate": "2012-01",
+      "endDate": "2015-01",
+      "advisor": "Prof. Daniele Nardi",
+      "advisorUrl": "http://www.diag.uniroma1.it/~nardi/",
+      "thesis": "3D Measurement and Environmental Sensing using Millimeter-wave Sensor"
+    },
+    {
+      "institution": "COMSATS University Islamabad (CUI)",
+      "image": "COMSATS-logo.png",
+      "location": "Islamabad, Pakistan",
+      "url": "https://islamabad.comsats.edu.pk",
+      "studyType": "Bachelor of Science in Electronics",
+      "startDate": "2006-9",
+      "endDate": "2010-09",
+      "advisor": "Dr. Farmanullah Jan",
+      "advisorUrl": "https://scholar.google.com/citations?user=LcH4S7IAAAAJ&hl=en",
+      "thesis": "Multi-Task Autonomous Robot Using Reconfigurable Media (FPGA) and Machine Vision Techniques"
+    }
+  ],
+  "volunteer": [
+    {
+      "role": "Organizer",
+      "items": [
         {
-          "name": "Honda Research Institute Japan, Co., Ltd. (HRI-JP)",
-          "position": "Scientist",
-          "location": "Tokyo, JAPAN",
-          "image": "hrijp.svg",
-          "url": "https://www.jp.honda-ri.com/en/members/muhammad-shakeel/",
-          "startDate": "2022-11",
-          "endDate": "",
-          "topic": "Research and development of an end-to-end deep learning-based system, in collaboration with Carnegie Mellon University, to provide accurate and contextualized automatic transcription for the hearing impaired."
+          "name": "IEEE RO-MAN 2023 Workshop co-organizer: Speech-based communication for robots and systems",
+          "url": "https://sites.google.com/view/ro-man2023-workshop-speech/home"
         },
         {
-          "name": "Honda Research Institute Japan, Co., Ltd. (HRI-JP)",
-          "position": "Research Intern",
-          "location": "Tokyo, JAPAN",
-          "image": "hrijp.svg",
-          "url": "https://www.jp.honda-ri.com/en/",
-          "startDate": "2021-12",
-          "endDate": "2022-08",
-          "topic": "3D ASR: Joint modeling of CTC, Attention and Transducer"
-        },
-        {
-          "name": "COMSATS University Islamabad (CUI)",
-          "position": "Lecturer",
-          "location": "Islamabad, Pakistan",
-          "image": "COMSATS-logo.png",
-          "url": "https://islamabad.comsats.edu.pk",
-          "startDate": "2015-09",
-          "endDate": "2019-03",
-          "topic": "Development of clustering algorithm for ALPIDE chip data on Kintex-7 in collaboration with ALICE (CERN)."
-        },
-        {
-            "name": "Smart-I",
-            "position": "AI & Machine Learning Engineer",
-            "location": "Rome, ITALY",
-            "image": "smart-i.png",
-            "url": "https://www.smart-interaction.com",
-            "startDate": "2015-02",
-            "endDate": "2015-08",
-            "topic": "Design, development, and optimization of machine learning algorithms for real-time traffic forecasting on the roads."
-          },
-          {
-              "name": "Smart-I",
-              "position": "Machine Learning Intern",
-              "location": "Rome, ITALY",
-              "image": "smart-i.png",
-              "url": "https://www.smart-interaction.com",
-              "startDate": "2014-02",
-              "endDate": "2014-05",
-              "topic": "Integrated support vector machines and Kalman filter to develop real-time prediction models, reducing energy consumption by 90% for pedestrian traffic and 80% for road traffic."
-            },
-            {
-                "name": "Human-Robot Informatics Lab - Tohoku University",
-                "position": "Visiting Trainee",
-                "location": "Sendai, JAPAN",
-                "image": "tohoku-uni.png",
-                "url": "https://www.tohoku.ac.jp/en/index.html",
-                "startDate": "2013-09",
-                "endDate": "2013-12",
-                "topic": "Environmental sensing using millimeter wave sensor for extreme conditions."
-              }
-      ],
-    "education": [
-      {
-        "institution": "Institute of Science Tokyo (former Tokyo Institute of Technology)",
-        "image": "science_tokyo.webp",
-        "location": "Tokyo, JAPAN",
-        "url": "https://www.isct.ac.jp/en",
-        "studyType": "Doctor of Philosophy in Systems and Control Engineering",
-        "startDate": "2019-09",
-        "endDate": "2022-09",
-        "advisor": "Prof. Kazuhiro Nakadai",
-        "advisorUrl": "https://www.ra.sc.e.titech.ac.jp/en/member/kazuhiro-nakadai/",
-        "research": "Anamolay detection and classification",
-        "thesis": "Anomaly detection and classification in multi-sensor systems using deep learning"
-      },
-      {
-        "institution": "Sapienza University of Rome",
-        "image": "sapienza.png",
-        "location": "Rome, ITALY",
-        "url": "https://www.uniroma1.it/en/pagina-strutturale/home",
-        "studyType": "Master of Engineering in Artificial Intelligence and Robotics",
-        "startDate": "2012-01",
-        "endDate": "2015-01",
-        "advisor": "Prof. Daniele Nardi",
-        "advisorUrl": "http://www.diag.uniroma1.it/~nardi/",
-        "thesis": "3D Measurement and Environmental Sensing using Millimeter-wave Sensor"
-      },
-      {
-        "institution": "COMSATS University Islamabad (CUI)",
-        "image": "COMSATS-logo.png",
-        "location": "Islamabad, Pakistan",
-        "url": "https://islamabad.comsats.edu.pk",
-        "studyType": "Bachelor of Science in Electronics",
-        "startDate": "2006-9",
-        "endDate": "2010-09",
-        "advisor": "Dr. Farmanullah Jan",
-        "advisorUrl": "https://scholar.google.com/citations?user=LcH4S7IAAAAJ&hl=en",
-        "thesis": "Multi-Task Autonomous Robot Using Reconfigurable Media (FPGA) and Machine Vision Techniques"
-      }
-    ],
-    "volunteer": [
-      {
-        "role": "Organizer",
-        "items": [
-          {
-            "name": "IEEE RO-MAN 2023 Workshop co-organizer: Speech-based communication for robots and systems",
-            "url": "https://sites.google.com/view/ro-man2023-workshop-speech/home"
-          },
-          {
-            "name": "IEEE RO-MAN 2023 Session chair: Robot Perception for Interaction and Communication"
-          }
-        ]
-      },
-      {
-        "role": "Conference reviewer",
-        "items": [
-          {"name": "ICLR: 2025", "url": "https://openreview.net/group?id=ICLR.cc/2025"},
-          {"name": "ICASSP: 2024, 2025", "url": "https://2024.ieeeicassp.org"},
-          {"name": "INTERSPEECH: 2024, 2025", "url": "https://interspeech2024.org"},
-          {"name": "IEEE RO-MAN: 2023, 2025", "url": "https://www.ro-man2025.org"},
-          {"name": "IEEE WASPAA: 2023", "url": "https://waspaa.com"},
-          {"name": "IEEE/SICE SII: 2023, 2024", "url": "https://sice-si.org/SII2024"},
-          {"name": "IEEE HUMANOIDS: 2022", "url": "https://www.humanoids2022.org"}
-        ]
-      },
-      {
-        "role": "Journal reviewer",
-        "items": [
-          {"name": "IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)", "url": "https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing"}
-        ]
-      }
-    ],
-    "languages": [
-        {
-          "language": "Urdu",
-          "fluency": "Native speaker",
-          "icon": ""
-        },
-        {
-          "language": "English",
-          "fluency": "Fluent",
-          "icon": ""
-        },
-        {
-          "language": "Japanese",
-          "fluency": "Beginner",
-          "icon": ""
-        },
-        {
-          "language": "Italian",
-          "fluency": "Beginner",
-          "icon": ""
+          "name": "IEEE RO-MAN 2023 Session chair: Robot Perception for Interaction and Communication"
         }
       ]
-  }
+    },
+    {
+      "role": "Conference reviewer",
+      "items": [
+        { "name": "ICLR: 2025", "url": "https://openreview.net/group?id=ICLR.cc/2025" },
+        { "name": "ICASSP: 2024, 2025", "url": "https://2024.ieeeicassp.org" },
+        { "name": "INTERSPEECH: 2024, 2025", "url": "https://interspeech2024.org" },
+        { "name": "IEEE RO-MAN: 2023, 2025", "url": "https://www.ro-man2025.org" },
+        { "name": "IEEE WASPAA: 2023", "url": "https://waspaa.com" },
+        { "name": "IEEE/SICE SII: 2023, 2024", "url": "https://sice-si.org/SII2024" },
+        { "name": "IEEE HUMANOIDS: 2022", "url": "https://www.humanoids2022.org" }
+      ]
+    },
+    {
+      "role": "Journal reviewer",
+      "items": [
+        {
+          "name": "IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)",
+          "url": "https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Urdu",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner",
+      "icon": ""
+    },
+    {
+      "language": "Italian",
+      "fluency": "Beginner",
+      "icon": ""
+    }
+  ]
+}

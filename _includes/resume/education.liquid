@@ -57,17 +57,19 @@
           </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
           {% if content.gpa %}
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><strong>GPA:</strong> {{ content.gpa }}, <strong>Ranking:</strong> {{ content.ranking }}</h6>
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
+              <strong>GPA:</strong> {{ content.gpa }}, <strong>Ranking:</strong> {{ content.ranking }}
+            </h6>
           {% endif %}
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
             <strong>Advisor:</strong> <a href="{{ content.advisorUrl }}">{{ content.advisor }}</a>
           </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><strong>Thesis:</strong> {{ content.thesis }}</h6>
           {% if content.research %}
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><strong>Research areas:</strong> {{ content.research }}</h6>
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><strong>Research areas:</strong> {{ content.research }}</h6>
           {% endif %}
           {% if content.openSource %}
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><strong>Open source:</strong> {{ content.openSource }}</h6>
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><strong>Open source:</strong> {{ content.openSource }}</h6>
           {% endif %}
           <ul class="items">
             {% for item in content.courses %}

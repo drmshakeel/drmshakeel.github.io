@@ -16,11 +16,11 @@ nav_order: 6
   <label for="email">Your Email:</label>
   <input type="email" name="email" id="email" required>
 
-  <label for="message">Your Message:</label>
-  <textarea name="message" id="message" rows="8" required autocomplete="off"></textarea>
+<label for="message">Your Message:</label>
+<textarea name="message" id="message" rows="8" required autocomplete="off"></textarea>
 
-  <button type="submit">Send Message</button>
-  
+<button type="submit">Send Message</button>
+
   <div id="success-message" class="hidden">
     ✅ Message sent successfully!
   </div>
@@ -129,7 +129,6 @@ nav_order: 6
     });
   });
 </script>
-
 
 <div style="width: 150px; height: 150px; overflow: hidden;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=c276mX2g5Q1mzD6assqnHAA3Ou3EaBD2jgz_8qdHUUw"></script>
