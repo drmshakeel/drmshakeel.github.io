@@ -129,7 +129,3 @@ nav_order: 6
     });
   });
 </script>
-
-<div style="width: 150px; height: 150px; overflow: hidden;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=c276mX2g5Q1mzD6assqnHAA3Ou3EaBD2jgz_8qdHUUw"></script>
-</div>

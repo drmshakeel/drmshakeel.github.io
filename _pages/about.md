@@ -41,3 +41,11 @@ I hold a strong background in Artificial Intelligence, with an M.Sc. in [Artific
 I also earned a B.Sc. in [Electronics](https://ww2.comsats.edu.pk/phy/BSEC.aspx) from [COMSATS University Islamabad](https://islamabad.comsats.edu.pk) (former COMSATS Institute of Information Technology).
 
 Additionally, I also worked under the supervision of [Prof. Arshad Saleem Bhatti](https://www.researchgate.net/profile/Arshad-Bhatti-2), contributing to the development of read-out electronics for the Inner Tracking System (ITS) of the ALICE detector at [CERN](https://greybook.cern.ch/institute/detail?id=076486) — one of the four major [experiments](https://greybook.cern.ch/experiment/detail?id=ALICE) at CERN. My primary contribution involved optimizing the communication link between the sensor board and the first readout electronics board.
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ryebztli6b");
+</script>
