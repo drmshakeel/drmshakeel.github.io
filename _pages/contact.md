@@ -2,7 +2,7 @@
 layout: contact
 permalink: /contact/
 title: Contact Me
-description: If you're exploring a thoughtful collaboration, I invite you to send me an email at shakeel [at] outlook [dot] it — it’s the most direct way to starting a conversation.
+description: If you're exploring a thoughtful collaboration, I invite you to send me a message below — it's the most direct way to start a conversation.
 
 social: true
 nav: true
