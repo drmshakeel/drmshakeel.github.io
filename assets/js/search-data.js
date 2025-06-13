@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-contact-me",
           title: "Contact Me",
-          description: "If you&#39;re exploring a thoughtful collaboration, I invite you to send me an email at shakeel [at] outlook [dot] it — it’s the most direct way to starting a conversation.",
+          description: "If you&#39;re exploring a thoughtful collaboration, I invite you to send me a message below — it&#39;s the most direct way to start a conversation.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/contact/";
