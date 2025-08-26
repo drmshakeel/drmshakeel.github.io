@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:scroll: 1 co-authored paper, OWSM-CTC, is accpeted at [ACL 2024 (main)](https://2024.aclweb.org/program/main_conference_papers/)
+:scroll: A co-authored paper, [OWSM-CTC](https://aclanthology.org/2024.acl-long.549/), has been accepted at [ACL 2024 (main conference)](https://2024.aclweb.org/program/main_conference_papers/)

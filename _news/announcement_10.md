@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:trophy: A co-authored paper received Best Paper Award at SLT 2024
+:trophy: A co-authored paper received the Best Paper Award at [IEEE SLT 2024](https://2024.ieeeslt.org)

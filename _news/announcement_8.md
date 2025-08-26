@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:scroll: 2 papers (1 first-authored) are accepted at [INTERSPEECH 2024](https://interspeech2024.org)
+:scroll: Two papers (one first-authored) have been accepted at [INTERSPEECH 2024](https://interspeech2024.org)

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:scroll: 1 co-authored paper accepted at [ICASSP 2024](https://2024.ieeeicassp.org)
+:scroll: A co-authored paper has been accepted at [ICASSP 2024](https://2024.ieeeicassp.org)

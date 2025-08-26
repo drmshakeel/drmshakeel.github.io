@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:scroll: Three co-authored papers are accepted at [INTERSPEECH 2025](https://www.interspeech2025.org/home)
+:scroll: Three co-authored papers have been accepted at [INTERSPEECH 2025](https://www.interspeech2025.org/home)

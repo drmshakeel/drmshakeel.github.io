@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:scroll: 1 co-authored paper is accepted at [IEEE SLT 2024](https://2024.ieeeslt.org)
+:scroll: A co-authored paper has been accepted at [IEEE SLT 2024](https://2024.ieeeslt.org)

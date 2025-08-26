@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:scroll: 1 first-authored paper accepted at [ICASSP 2024 Satellite Workshop](https://sites.google.com/view/hscma2024/home?pli=1)
+:scroll: A first-authored paper has been accepted at [ICASSP 2024 Satellite Workshop](https://sites.google.com/view/hscma2024/home?pli=1)
