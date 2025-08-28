@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contact/";
           },
-        },{id: "post-how-to-perform-long-form-asr-with-ctc",
+        },{id: "post-demo-of-owsm-v4-medium-model-and-owsm-v4-ctc-model",
+        
+          title: 'Demo of OWSM-V4 Medium model and OWSM-V4 CTC model <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "This application converts spoken language into text. Users can upload audio or record speech, select the language, and choose the task (like speech recognition or translation). The app will output ...",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://huggingface.co/spaces/espnet/OWSM_V4_Demo", "_blank");
+          
+        },
+      },{id: "post-how-to-perform-long-form-asr-with-ctc",
         
           title: 'How to Perform Long-Form ASR with CTC? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
