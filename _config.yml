@@ -122,6 +122,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
+  - name: OWSM v4 Demo
+    posts:
+      - title: Demo of OWSM-V4 Medium model and OWSM-V4 CTC model
+        url: https://huggingface.co/spaces/espnet/OWSM_V4_Demo
+        published_date: 2025-08-28
   - name: NVIDIA NeMo
     posts:
       - title: How to Perform Long-Form ASR with CTC?
