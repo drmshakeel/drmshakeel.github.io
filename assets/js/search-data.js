@@ -59,7 +59,7 @@ ninja.data = [{
         
           title: 'How to Perform Long-Form ASR with CTC? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech) - NeMo/tutorials/asr/Streaming_ASR.ipynb at main · NVIDIA/NeMo",
+        description: "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech) - NeMo/tutorials/asr/Streaming_ASR.ipynb at main · NVIDIA-NeMo/NeMo",
         section: "Posts",
         handler: () => {
           
@@ -135,8 +135,8 @@ ninja.data = [{
           section: "News",},{id: "news-scroll-three-co-authored-papers-have-been-accepted-at-interspeech-2025",
           title: ':scroll: Three co-authored papers have been accepted at INTERSPEECH 2025',
           description: "",
-          section: "News",},{id: "news-scroll-a-first-authored-paper-has-been-accepted-at-ieee-asru-2025",
-          title: ':scroll: A first-authored paper has been accepted at IEEE ASRU 2025',
+          section: "News",},{id: "news-scroll-a-first-authored-paper-ume-has-been-accepted-at-ieee-asru-2025",
+          title: ':scroll: A first-authored paper, UME, has been accepted at IEEE ASRU 2025',
           description: "",
           section: "News",},{id: "news-trophy-a-co-authored-paper-received-the-isca-best-student-paper-award-at-interspeech-2025",
           title: ':trophy: A co-authored paper received the ISCA Best Student Paper Award at INTERSPEECH...',
