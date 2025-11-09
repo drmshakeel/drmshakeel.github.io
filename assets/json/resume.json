@@ -116,9 +116,10 @@
     {
       "role": "Conference reviewer",
       "items": [
-        { "name": "ICLR: 2025", "url": "https://openreview.net/group?id=ICLR.cc/2025" },
-        { "name": "ICASSP: 2024, 2025", "url": "https://2024.ieeeicassp.org" },
-        { "name": "INTERSPEECH: 2024, 2025", "url": "https://interspeech2024.org" },
+        { "name": "AAAI: 2026", "url": "https://aaai.org/conference/aaai/aaai-26/" },
+        { "name": "ICLR: 2025, 2026", "url": "https://iclr.cc/" },
+        { "name": "ICASSP: 2024, 2025", "url": "https://2026.ieeeicassp.org" },
+        { "name": "INTERSPEECH: 2024, 2025", "url": "https://www.interspeech2025.org/home" },
         { "name": "IEEE RO-MAN: 2023, 2025", "url": "https://www.ro-man2025.org" },
         { "name": "IEEE WASPAA: 2023", "url": "https://waspaa.com" },
         { "name": "IEEE/SICE SII: 2023, 2024", "url": "https://sice-si.org/SII2024" },
