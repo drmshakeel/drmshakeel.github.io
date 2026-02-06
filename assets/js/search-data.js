@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: 'Demo of OWSM-V4 Medium model and OWSM-V4 CTC model <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "This application converts spoken language into text. Users can upload audio or record speech, select the language, and choose the task (like speech recognition or translation). The app will output ...",
+        description: "This application transcribes and translates speech into text in 151 languages. Users can upload an audio file or use their microphone to provide input. They can choose the source language, specify ...",
         section: "Posts",
         handler: () => {
           
@@ -140,6 +140,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-trophy-a-co-authored-paper-received-the-isca-best-student-paper-award-at-interspeech-2025",
           title: ':trophy: A co-authored paper received the ISCA Best Student Paper Award at INTERSPEECH...',
+          description: "",
+          section: "News",},{id: "news-scroll-a-first-authored-paper-calm-has-been-accepted-at-ieee-icassp-2026",
+          title: ':scroll: A first-authored paper, CALM, has been accepted at IEEE ICASSP 2026',
           description: "",
           section: "News",},{
         id: 'social-email',
