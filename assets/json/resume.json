@@ -4,7 +4,7 @@
       "name": "Honda Research Institute Japan, Co., Ltd. (HRI-JP)",
       "position": "Scientist",
       "location": "Tokyo, JAPAN",
-      "image": "hrijp.svg",
+      "image": "hrijp.jpeg",
       "url": "https://www.jp.honda-ri.com/en/members/muhammad-shakeel/",
       "startDate": "2022-11",
       "endDate": "",
@@ -14,7 +14,7 @@
       "name": "Honda Research Institute Japan, Co., Ltd. (HRI-JP)",
       "position": "Research Intern",
       "location": "Tokyo, JAPAN",
-      "image": "hrijp.svg",
+      "image": "hrijp.jpeg",
       "url": "https://www.jp.honda-ri.com/en/",
       "startDate": "2021-12",
       "endDate": "2022-08",
@@ -116,6 +116,7 @@
     {
       "role": "Conference reviewer",
       "items": [
+        { "name": "NeurIPS: 2024, 2025", "url": "https://neurips.cc/" },
         { "name": "AAAI: 2026", "url": "https://aaai.org/conference/aaai/aaai-26/" },
         { "name": "ICLR: 2025, 2026", "url": "https://iclr.cc/" },
         { "name": "ICASSP: 2024, 2025", "url": "https://2026.ieeeicassp.org" },
