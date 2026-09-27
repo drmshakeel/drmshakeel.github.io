@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: 'Demo of OWSM-V4 Medium model and OWSM-V4 CTC model <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "This application transcribes and translates speech into text in 151 languages. Users can upload an audio file or use their microphone to provide input. They can choose the source language, specify ...",
+        description: "Upload an audio clip (max 2 minutes) and pick the language or let the system detect it automatically. Choose either plain transcription or translation into many target languages, and the app will o...",
         section: "Posts",
         handler: () => {
           
@@ -59,7 +59,7 @@ ninja.data = [{
         
           title: 'How to Perform Long-Form ASR with CTC? <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech) - NeMo/tutorials/asr/Streaming_ASR.ipynb at main · NVIDIA-NeMo/NeMo",
+        description: "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech) - Speech/tutorials/asr/Streaming_ASR.ipynb at main · NVIDIA-NeMo/Speech",
         section: "Posts",
         handler: () => {
           
@@ -143,6 +143,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-scroll-a-first-authored-paper-calm-has-been-accepted-at-ieee-icassp-2026",
           title: ':scroll: A first-authored paper, CALM, has been accepted at IEEE ICASSP 2026',
+          description: "",
+          section: "News",},{id: "news-scroll-a-co-authored-paper-has-been-accepted-at-interspeech-2026",
+          title: ':scroll: A co-authored paper has been accepted at INTERSPEECH 2026',
           description: "",
           section: "News",},{
         id: 'social-email',
