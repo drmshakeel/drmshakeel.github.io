@@ -48,7 +48,7 @@ ninja.data = [{
         
           title: 'Demo of OWSM-V4 Medium model and OWSM-V4 CTC model <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "Upload an audio clip (max 2 minutes) and pick the language or let the system detect it automatically. Choose either plain transcription or translation into many target languages, and the app will o...",
+        description: "This app lets you upload an audio clip (up to 2 minutes) and optionally type a short text prompt. It automatically detects the spoken language, converts the speech to text, translates it if needed,...",
         section: "Posts",
         handler: () => {
           
@@ -102,6 +102,11 @@ ninja.data = [{
           description: "",
           section: "Honors",handler: () => {
               window.location.href = "/honors/honor_5/";
+            },},{id: "honors-neurips-top-reviewer-recognition-2026",
+          title: 'NeurIPS Top Reviewer Recognition (2026)',
+          description: "",
+          section: "Honors",handler: () => {
+              window.location.href = "/honors/honor_6/";
             },},{id: "news-trophy-i-have-successfully-earned-my-ph-d-doctor-of-philosophy-in-systems-and-control-engineering-from-the-tokyo-institute-of-technology-this-milestone-marks-the-culmination-of-years-of-dedicated-research-and-academic-pursuit-i-m-grateful-for-the-support-of-my-advisors-collaborators-and-peers-throughout-this-journey",
           title: ':trophy: I have successfully earned my Ph.D. (Doctor of Philosophy) in Systems and...',
           description: "",
